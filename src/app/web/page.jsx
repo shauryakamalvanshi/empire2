@@ -11,7 +11,7 @@ export default function Page() {
       </div>
       <div className="flex mt-10 max-lg:flex-col max-lg:items-center">
         <div className=" w-1/2 rounded-lg max-lg:w-11/12 ">
-          {/* <img src="./web.jpg" alt="" className="max-lg:w-full rounded-lg h-96 w-full" /> */}
+          <img src="./web.png" alt="" className="max-lg:w-full rounded-lg h-96 w-full mt-20 ml-auto mr-auto" />
         </div>
         <div className="w-1/2 mt-4">
           <Phases

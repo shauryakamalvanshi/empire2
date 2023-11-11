@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-2/3 lg:w-3/12">
               <div className="mb-10 w-full">
                 <a href="/#" className="mb-6 inline-block max-w-[160px]">
-                  <img
+                  {/* <img
                     src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo.svg"
                     alt="logo"
                     className="max-w-full dark:hidden"
@@ -19,7 +19,8 @@ const Footer = () => {
                     src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo-white.svg"
                     alt="logo"
                     className="max-w-full hidden dark:block"
-                  />
+                  /> */}
+                  <h1 className="text-xl font-bold">The Empire tech</h1>
                 </a>
                 <p className="mb-7 text-base text-body-color dark:text-gray-800">
                   Sed ut perspiciatis undmnis is iste natus error sit amet

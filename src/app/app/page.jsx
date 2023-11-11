@@ -8,11 +8,11 @@ const page = () => {
   return (
     <>
       <div className="flex items-center justify-center">
-        <h1 className="text-4xl font-bold">Application development</h1>
+        <h1 className="text-4xl font-bold">App development</h1>
       </div>
       <div className="flex mt-10 max-lg:flex-col max-lg:items-center">
         <div className="w-1/2 rounded-lg max-lg:w-11/12 ">
-          {/* <img src="./web.jpg" alt="" className="max-lg:w-full rounded-lg h-96 w-full" /> */}
+          <img src="./application.png" alt="" className="max-lg:w-full rounded-lg h-full w-full" />
         </div>
         <div className="w-1/2 mt-4">
           <Phases

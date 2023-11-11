@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <Link href="/">
             <div className="flex items-center">
-              <div className="h-8 mr-3 text-white " alt="Flowbite Logo"> Empire <span className="bg-orange-500 text-black rounded-md"> technology</span> </div>
+              <div className="h-8 mr-3 text-black text-xl font-bold " alt="Flowbite Logo">The Empire technology</div>
             </div>
           </Link>
           <button

@@ -10,8 +10,8 @@ const page = () => {
         <h1 className="text-4xl font-bold">SEO</h1>
       </div>
       <div className="flex mt-10 max-lg:flex-col max-lg:items-center ">
-        <div className="w-1/2 rounded-lg max-lg:w-11/12 ">
-          {/* <img src="./web.jpg" alt="" className={styles.img} /> */}
+        <div className="w-1/2 h-5/6 rounded-lg max-lg:w-11/12  ">
+          <img src="./seo1.png" alt=""className="max-lg:w-5/6 rounded-lg h-90px  w-5/6 mt-0 ml-auto mr-auto" />
         </div>
         <div className="w-1/2 mt-4">
           <Phases
